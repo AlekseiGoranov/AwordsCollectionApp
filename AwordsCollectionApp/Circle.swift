@@ -17,7 +17,6 @@ struct NewCircle: View {
     
     var body: some View {
         
-        
         Circle()
             .fill(
                 LinearGradient(
